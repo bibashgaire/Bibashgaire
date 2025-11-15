@@ -13,7 +13,7 @@ Hands On Lab
 
 | Skills                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Windows Update                                | <a href="https://github.com/bibashgaire/Detection-Lab">windows lab</a>|
+| Windows Update                                | <a href="https://github.com/bibashgaire/Windows-lab">windows lab</a>|
 | Windows Defender Antivirus                    | <a href="https://google.com">windows lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
