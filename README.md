@@ -11,14 +11,14 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 Hands On Lab 
 
-| Skills                                        | Associated Project         |
+| IBM Cybersecurity Analyst (Coursera)          | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Windows Update                                | <a href="https://github.com/bibashgaire/Windows-lab">windows lab</a>|
-| Windows Defender Antivirus                    | <a href="https://google.com">windows lab</a>|
+| Windows Defender Antivirus                    | <a href="https://github.com/bibashgaire/Windows-lab">windows lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation| SOC Automation Lab|
 
 ## Tools
 
