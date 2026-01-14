@@ -1,4 +1,4 @@
-# Hi, I'm Bibash Gaire Gaire 👋
+# Hi, I'm Bibash Gaire 👋
 
 🎓 Cybersecurity student preparing for a student placement  
 🔐 Interested in web security and defensive security basics  
