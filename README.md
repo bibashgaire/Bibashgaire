@@ -1,21 +1,40 @@
-# Hi, I'm Bibash Gaire 👋
+# Bibash Gaire  
+SOC Analyst Trainee | CompTIA Security+ Candidate  
 
-🎓 Cybersecurity student preparing for a student placement  
-🔐 Interested in web security and defensive security basics  
-📘 Learning through structured notes and hands-on labs  
+## About Me
+I am an aspiring SOC Analyst building hands-on experience in security monitoring, incident triage, and detection engineering. Alongside preparing for CompTIA Security+, I am developing practical SOC skills through home labs, simulated attacks, and real-world style incident investigations.
 
-## Currently learning
-- Networking fundamentals (TCP/IP, DNS)
-- Web security basics (OWASP Top 10)
-- Burp Suite and browser DevTools
-- Linux fundamentals
+My focus is on understanding how attacks appear in logs, how to investigate alerts, and how to document findings clearly for escalation and response.
 
-## Projects
-- **cybersecurity-notes** – structured learning notes
-- **web-security-labs** – vulnerability practice writeups (in progress)
-- **mini-security-tools** – small scripts for learning automation
+## Skills in Progress
+- SIEM log analysis (Wazuh / Splunk)
+- Windows Security Event analysis
+- Incident triage and investigation
+- Basic detection engineering (Sigma, SPL, KQL)
+- Network traffic analysis (Wireshark)
+- Phishing and malware alert analysis
+- MITRE ATT&CK mapping
 
-## Goal
-To secure a cybersecurity **student placement** and build strong foundations.
+## Hands-On Projects
+- 🔹 SOC Analyst Home Lab  
+  Repository: https://github.com/YOUR_USERNAME/soc-analyst-lab  
+  Windows + Linux lab with SIEM, logging, detections, and investigations.
 
-⚠️ Educational use only.
+- 🔹 Incident Response Reports  
+  Repository: https://github.com/YOUR_USERNAME/incident-response-reports  
+  Realistic SOC-style incident writeups including phishing, brute force, and malware.
+
+- 🔹 Detection Rules Library  
+  Repository: https://github.com/YOUR_USERNAME/soc-detections  
+  Sigma rules, SPL, and KQL queries for common SOC detections.
+
+- 🔹 Security+ Practical Mapping  
+  Repository: https://github.com/YOUR_USERNAME/security-plus-notes-labs  
+  Mapping CompTIA Security+ concepts to hands-on SOC labs and investigations.
+
+## Certifications
+- CompTIA Security+ (In Progress)
+
+## Career Goal
+Entry-Level SOC Analyst / Security Operations Analyst  
+Focused on developing strong fundamentals in monitoring, investigation, and incident response.
