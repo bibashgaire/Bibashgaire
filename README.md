@@ -17,19 +17,19 @@ My focus is on understanding how attacks appear in logs, how to investigate aler
 
 ## Hands-On Projects
 - 🔹 SOC Analyst Home Lab  
-  Repository: https://github.com/YOUR_USERNAME/soc-analyst-lab  
+  Repository: https://github.com/bibashgaire/soc-analyst-lab  
   Windows + Linux lab with SIEM, logging, detections, and investigations.
 
 - 🔹 Incident Response Reports  
-  Repository: https://github.com/YOUR_USERNAME/incident-response-reports  
+  Repository: https://github.com/bibashgaire/incident-response-reports  
   Realistic SOC-style incident writeups including phishing, brute force, and malware.
 
 - 🔹 Detection Rules Library  
-  Repository: https://github.com/YOUR_USERNAME/soc-detections  
+  Repository: https://github.com/bibashgaire/soc-detections  
   Sigma rules, SPL, and KQL queries for common SOC detections.
 
 - 🔹 Security+ Practical Mapping  
-  Repository: https://github.com/YOUR_USERNAME/security-plus-notes-labs  
+  Repository: https://github.com/bibashgaire/security-plus-notes-labs  
   Mapping CompTIA Security+ concepts to hands-on SOC labs and investigations.
 
 ## Certifications
