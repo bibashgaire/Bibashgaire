@@ -33,7 +33,7 @@ My focus is on understanding how attacks appear in logs, how to investigate aler
   Mapping CompTIA Security+ concepts to hands-on SOC labs and investigations.
 
 ## Certifications
-- Google Cybersecurity
+- Google Cybersecurity Professional Certificate 
 - CompTIA Security+ (In Progress)
 
 ## Career Goal
