@@ -39,3 +39,6 @@ My focus is on understanding how attacks appear in logs, how to investigate aler
 ## Career Goal
 Entry-Level SOC Analyst / Security Operations Analyst  
 Focused on developing strong fundamentals in monitoring, investigation, and incident response.
+
+GITHUB
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2935700" style='border:none;'></iframe>
